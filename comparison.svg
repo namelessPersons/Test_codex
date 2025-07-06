@@ -1,0 +1,37 @@
+<svg width="600" height="400" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .bar { stroke-width: 0; }
+    .self { fill: #ff6600; }
+    .compA { fill: #666666; }
+    .compB { fill: #999999; }
+    .label { font-family: sans-serif; font-size: 14px; }
+    .title { font-family: sans-serif; font-size: 20px; font-weight: bold; }
+  </style>
+  <rect width="600" height="400" fill="white"/>
+  <text x="300" y="30" text-anchor="middle" class="title">自社と競合の比較</text>
+  <g transform="translate(0,300)">
+    <line x1="40" y1="0" x2="580" y2="0" stroke="black"/>
+    <!-- Power -->
+    <rect class="bar compA" x="60" y="-80" width="40" height="80"/>
+    <rect class="bar compB" x="110" y="-60" width="40" height="60"/>
+    <rect class="bar self" x="160" y="-120" width="40" height="120"/>
+    <!-- Reliability -->
+    <rect class="bar compA" x="260" y="-90" width="40" height="90"/>
+    <rect class="bar compB" x="310" y="-100" width="40" height="100"/>
+    <rect class="bar self" x="360" y="-140" width="40" height="140"/>
+    <!-- Support -->
+    <rect class="bar compA" x="460" y="-70" width="40" height="70"/>
+    <rect class="bar compB" x="510" y="-80" width="40" height="80"/>
+    <rect class="bar self" x="560" y="-130" width="40" height="130"/>
+  </g>
+  <text x="100" y="350" text-anchor="middle" class="label">パワー</text>
+  <text x="300" y="350" text-anchor="middle" class="label">信頼性</text>
+  <text x="500" y="350" text-anchor="middle" class="label">サポート</text>
+  <!-- Legend -->
+  <rect x="420" y="40" width="15" height="15" class="self"/>
+  <text x="440" y="52" class="label">自社</text>
+  <rect x="480" y="40" width="15" height="15" class="compA"/>
+  <text x="500" y="52" class="label">A社</text>
+  <rect x="540" y="40" width="15" height="15" class="compB"/>
+  <text x="560" y="52" class="label">B社</text>
+</svg>
