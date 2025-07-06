@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600">
+  <rect width="800" height="600" fill="#FFFFFF" />
+  <text x="400" y="60" font-size="36" text-anchor="middle" fill="#003399">コマツの強み</text>
+  <text x="60" y="120" font-size="20">・ICT建機による施工効率向上</text>
+  <text x="60" y="160" font-size="20">・グローバルなメンテナンス網 (150 拠点)</text>
+  <text x="60" y="200" font-size="20">・耐久性：稼働寿命 10 年超</text>
+  <text x="60" y="240" font-size="20">・燃費効率：従来比 15% 向上</text>
+  <text x="60" y="280" font-size="20">・環境性能：排ガス 20% 低減</text>
+  <text x="60" y="320" font-size="20">・導入事例：国内外 500 社以上で採用</text>
+</svg>

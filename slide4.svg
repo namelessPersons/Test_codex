@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600">
+  <rect width="800" height="600" fill="#FFFFFF" />
+  <text x="400" y="60" font-size="36" text-anchor="middle" fill="#003399">顧客にもたらすメリット</text>
+  <text x="60" y="120" font-size="20">・現場生産性 20% 向上</text>
+  <text x="60" y="160" font-size="20">・燃料コスト 15% 削減</text>
+  <text x="60" y="200" font-size="20">・環境規制への適合：排出量 20% 低減</text>
+  <text x="60" y="240" font-size="20">・作業効率改善：作業時間 10% 短縮</text>
+  <text x="60" y="280" font-size="20">・事故リスク低減：安全装備の充実</text>
+  <text x="60" y="320" font-size="20">・稼働率向上：遠隔監視による迅速なサポート</text>
+</svg>
