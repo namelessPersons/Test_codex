@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600">
+  <rect width="800" height="600" fill="#FFFFFF" />
+  <text x="400" y="120" font-size="48" text-anchor="middle" fill="#003399">コマツ建設機械のご提案</text>
+  <text x="400" y="200" font-size="24" text-anchor="middle" fill="#000000">競合他社より優れた性能とサポート</text>
+  <text x="400" y="260" font-size="20" text-anchor="middle" fill="#000000">顧客の課題を解決する最適なソリューション</text>
+  <image href="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0nMTAnIGhlaWdodD0nMTAnIHhtbG5zPSdodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2Zyc+PHJlY3Qgd2lkdGg9JzEwJyBoZWlnaHQ9JzEwJyBmaWxsPScjMzJiN2Q4JyBzdHJva2U9JyMwMDMnIC8+PC9zdmc+" x="370" y="320" height="60" width="60" />
+  <text x="400" y="410" font-size="18" text-anchor="middle" fill="#000000">世界中で信頼されるコマツブランド</text>
+</svg>
